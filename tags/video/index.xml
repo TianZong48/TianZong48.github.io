@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on Glut Climbing</title>
+    <link>/tags/video/</link>
+    <description>Recent content in video on Glut Climbing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:02:09 +0800</lastBuildDate><atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v</title>
+      <link>/gallery/video/</link>
+      <pubDate>Fri, 11 Dec 2020 00:02:09 +0800</pubDate>
+      
+      <guid>/gallery/video/</guid>
+      <description>Video</description>
+    </item>
+    
+  </channel>
+</rss>
